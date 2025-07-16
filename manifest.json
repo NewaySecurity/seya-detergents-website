@@ -1,0 +1,40 @@
+{
+  "name": "Seya Detergents - Cleaning with Heart, Power & Pride",
+  "short_name": "Seya Detergents",
+  "description": "Proudly South African, 100% Black-owned cleaning products that empower homes and businesses nationwide.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#005AA7",
+  "theme_color": "#005AA7",
+  "orientation": "portrait-primary",
+  "categories": ["business", "shopping", "lifestyle"],
+  "lang": "en-ZA",
+  "icons": [
+    {
+      "src": "assets/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/images/screenshot-wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "assets/images/screenshot-narrow.png",
+      "sizes": "640x1136",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
